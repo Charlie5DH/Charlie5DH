@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos - aka [Charlie5DH][website] 👋
+### Hi there, I'm Carlos - aka [Charlie5DH] 👋
 
 ## I'm a passionate learner of everything related to code!
 - :mortar_board: I’m currently finishing a Master degree on Electronics
