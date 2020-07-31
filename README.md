@@ -11,8 +11,6 @@
 
 <br />
 
-
-
 ---
 
 [linkedin]: linkedin.com/in/carlos-r-morales-b3484b159
