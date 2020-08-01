@@ -1,7 +1,7 @@
 ### Hi there, I'm Carlos R. - aka [Charlie5DH] 👋
 
 ## I'm a passionate learner of everything related to code!
-- :mortar_board: I’m currently finishing a Master degree on Electronics
+- :mortar_board: I’m currently finishing a Master degree on Electronics at UFSC [UFSC]
 - 🌱 Learning all related to AI :grinning:  
 - 👯 Looking to collaborate with others
 
@@ -28,6 +28,7 @@
 <br>
 
 ---
+[UFSC]: https://ufsc.br/
 [Git]: https://en.wikipedia.org/wiki/Git
 [Github]: https://github.com/Charlie5DH
 [Python]: https://www.python.org/
