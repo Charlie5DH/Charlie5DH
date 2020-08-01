@@ -17,7 +17,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][Python]
 [<img align="left" alt="Tensorflow" width="26px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][Tensorflow]
-[<img align="left" alt="Keras" width="26px" src="https://keras.io/img/logo.png" />][Keras]
+[<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][Keras]
 <br>
 
 ---
