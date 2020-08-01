@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Charlie5DH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Charlie5DH | LinkedIn" width="22px" src="https://www.linkedin.com/in/carlos-r-morales-b3484b159/" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 <br />
 
