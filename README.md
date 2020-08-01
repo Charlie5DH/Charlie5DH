@@ -18,7 +18,7 @@
 [<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][Python]
 [<img align="left" alt="Tensorflow" width="26px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][Tensorflow]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][Keras]
-[<img align="left" alt="Sklear" width="26px" src="https://img2.gratispng.com/20180823/ipi/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-5b7f65a43cd484.7557485915350757482492.jpg" />][Sklearn]
+[<img align="left" alt="Sklear" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
 <br>
 
 ---
