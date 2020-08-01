@@ -19,6 +19,7 @@
 [<img align="left" alt="Tensorflow" width="26px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][Tensorflow]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][Keras]
 [<img align="left" alt="Sklear" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
+[<img align="left" alt="Sklear" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][C++]
 <br>
 
 ---
@@ -28,6 +29,6 @@
 [Sklearn]: https://scikit-learn.org/stable/
 [instagram]: https://instagram.com/
 [linkedin]: linkedin.com/in/carlos-r-morales-b3484b159
-
+[C++]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 
