@@ -15,13 +15,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][]
-[<img align="left" alt="Tensorflow" width="26px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][]
-[<img align="left" alt="Keras" width="26px" src="https://keras.io/img/logo.png" />][]
+[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />][Python]
+[<img align="left" alt="Tensorflow" width="26px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][Tensorflow]
+[<img align="left" alt="Keras" width="26px" src="https://keras.io/img/logo.png" />][Keras]
 <br>
 
 ---
-
+[Python]: https://www.python.org/
+[Tensorflow]: https://www.tensorflow.org/
+[Keras]: https://keras.io/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: linkedin.com/in/carlos-r-morales-b3484b159
 
