@@ -21,8 +21,8 @@
 [<img align="left" alt="Sklear" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][C++]
 [<img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />][Numpy]
-[<img align="left" alt="Numpy" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2XbpDr_mjH49xb5uq36h6VLT3-pOnN8wq0Q&usqp=CAU" />][Arduino]
-[<img align="left" alt="Numpy" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/buckyball_logo_detailscropped.jpg" />][Raspberry]
+[<img align="left" alt="Arduino" width="26px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" />][Arduino]
+[<img align="left" alt="Raspberry" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/buckyball_logo_detailscropped.jpg" />][Raspberry]
 
 <br>
 
