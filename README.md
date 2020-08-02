@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos R. - aka [Charlie5DH] 👋
+### Hi there, I'm Carlos R. - aka Charlie5DH 👋
 
 ## I'm a passionate learner of everything related to code!
 - :mortar_board: I’m currently finishing a Master degree on Electronics at [UFSC][UFSC]
