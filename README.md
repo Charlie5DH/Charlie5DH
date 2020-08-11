@@ -29,9 +29,8 @@
 
 ---
 [UFSC]: https://ufsc.br/
-[Git]: https://en.wikipedia.org/wiki/Git
+[Git]: https://en.wikipedia.org/wiki/Gi
 [Github]: https://github.com/Charlie5DH
-[Git]: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png
 [Python]: https://www.python.org/
 [Tensorflow]: https://www.tensorflow.org/
 [Keras]: https://keras.io/
