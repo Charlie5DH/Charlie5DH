@@ -24,7 +24,7 @@
 [<img align="left" alt="Arduino" width="26px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" />][Arduino]
 [<img align="left" alt="Raspberry" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/buckyball_logo_detailscropped.jpg" />][Raspberry]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />][Git]
+[<img align="left" alt="Git" width="26px" src="https://b7.pngbarn.com/png/713/558/computer-icons-pro-git-github-logo-png-clip-art-thumbnail.png" />][Git]
 <br>
 
 ---
