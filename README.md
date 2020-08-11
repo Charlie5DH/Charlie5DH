@@ -24,13 +24,14 @@
 [<img align="left" alt="Arduino" width="26px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" />][Arduino]
 [<img align="left" alt="Raspberry" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/buckyball_logo_detailscropped.jpg" />][Raspberry]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
+[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" />][Git]
 <br>
 
 ---
 [UFSC]: https://ufsc.br/
 [Git]: https://en.wikipedia.org/wiki/Git
 [Github]: https://github.com/Charlie5DH
+[Git]: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png
 [Python]: https://www.python.org/
 [Tensorflow]: https://www.tensorflow.org/
 [Keras]: https://keras.io/
