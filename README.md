@@ -8,6 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Carlos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Medium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][Medium]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 <br />
 
@@ -28,6 +29,7 @@
 <br>
 
 ---
+[Medium]: https://medium.com/@crmorales5dh
 [UFSC]: https://ufsc.br/
 [Git]: https://en.wikipedia.org/wiki/Gi
 [Github]: https://github.com/Charlie5DH
