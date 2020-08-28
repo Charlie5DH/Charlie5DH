@@ -13,6 +13,7 @@
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 <br />
 
 ---
@@ -61,3 +62,4 @@
 [Numpy]: https://numpy.org/
 [Arduino]: https://www.arduino.cc/
 [Raspberry]: https://www.raspberrypi.org/
+[Instagram]: https://www.instagram.com/carlosraulm93/
