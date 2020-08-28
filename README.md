@@ -15,7 +15,6 @@
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
----
 
 ### Languages and Tools:
 
@@ -32,7 +31,6 @@
 [<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
 <br>
 
----
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
