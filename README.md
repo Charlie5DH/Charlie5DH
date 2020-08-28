@@ -21,6 +21,7 @@
 [<img align="left" alt="Tensorflow" width="26px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][Tensorflow]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][Keras]
 [<img align="left" alt="Sklear" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
+[<img align="left" alt="Jupyter" width="26px" src="https://jupyter.org/assets/main-logo.svg" />][Jupyter]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][C++]
 [<img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />][Numpy]
 [<img align="left" alt="Arduino" width="26px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" />][Arduino]
@@ -43,6 +44,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Charlie5DH&show_icons=true&hide_border=true" />
 </details>
 
+[Jupyter]: https://jupyter.org/
 [Medium]: https://medium.com/@crmorales5dh
 [UFSC]: https://ufsc.br/
 [Git]: https://en.wikipedia.org/wiki/Gi
