@@ -2,8 +2,9 @@
 
 ## I'm a passionate learner of everything related to code!
 - :mortar_board: I’m currently finishing a Master degree on Electronics at [UFSC][UFSC]
-- 🌱 Learning all related to AI :grinning:  
+- 🌱 Currently learning everything related to AI and Android :grinning:  
 - 👯 Looking to collaborate with others
+- ⚡ Fun fact: Love playing Squash
 
 ### Look for me in:
 
