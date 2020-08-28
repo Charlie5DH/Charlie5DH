@@ -6,9 +6,7 @@
 - 👯 Looking to collaborate with others
 - ⚡ Fun fact: Love to play Squash
 
-### Listening to 🎧
-[<img src="https://novatorem-sigma-neon.vercel.app/api/spotify-playing" alt="Charlie Spotify Playing" width="350" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
-
+<img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="400" height="320" />
 
 ### Look for me in:
 
