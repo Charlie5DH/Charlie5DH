@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Medium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][Medium]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Carlos | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/61/61109.png" />][linkedin]
 <br />
