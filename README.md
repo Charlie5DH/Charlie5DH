@@ -30,6 +30,12 @@
 
 ---
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Random Forest on Titanic Dataset ](https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d)
+
+---
+
 <details>
   <summary>:zap: Github Stats</summary>
   
