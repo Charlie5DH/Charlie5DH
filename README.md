@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos R. - aka Charlie5DH 👋
+### Hi there, I'm Carlos R. - aka Charlie5DH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Hi, i'm an electronics engineer passionate about AI and Machine Learning !
 - :mortar_board: I’m currently finishing a Master degree on Electronics at [UFSC][UFSC]
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Love to play Squash
 
 ### Listening to 🎧
-[<img src="https://charlie5dh.vercel.app/api/spotify-playing" alt="Charlie Spotify Playing" width="350" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
+[<img src="https://novatorem-sigma-neon.vercel.app/api/spotify-playing" alt="Charlie Spotify Playing" width="350" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
 
 
 ### Look for me in:
