@@ -14,11 +14,12 @@
   </td>
   <td width="50%">
   
-  <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-<img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
+  <br><p align="center"><br><br>
 </p>
   </td>
   </table>
+  
+<img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
 
 ### Look for me in:
 
