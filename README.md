@@ -6,10 +6,19 @@
 - 👯 Looking to collaborate with others
 - ⚡ Fun fact: Love to play Squash
 
-### Spotify Playing 🎧
-[<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="350" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
-
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+    ### Spotify Playing 🎧
+    [<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="350" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
+  </td>
+  <td width="50%">
+  
+  <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
 <img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
+</p>
+  </td>
+  </table>
 
 ### Look for me in:
 
