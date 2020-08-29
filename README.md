@@ -1,28 +1,14 @@
 ### Hi there, I'm Carlos R. - aka Charlie5DH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Hi, i'm an electronics engineer passionate about AI and Machine Learning !
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="450" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
-
-  </td>
-  <td width="50%">
-
-<br><p align="center">A little about me<br><br>
   - :mortar_board: I’m currently finishing a Master degree on Electronics at [UFSC][UFSC]
   - 🌱 Currently learning everything related to AI and Android :grinning:  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
-</p>
-  </td>
-  </table>
-  
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="450" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g?)
 
-  
 <img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
 
 ### Look for me in:
