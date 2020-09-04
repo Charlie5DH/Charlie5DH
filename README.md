@@ -27,13 +27,13 @@
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][Keras]
 [<img align="left" alt="Sklear" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][Sklearn]
 [<img align="left" alt="Jupyter" width="26px" src="https://jupyter.org/assets/main-logo.svg" />][Jupyter]
+[<img align="left" alt="Streamlit" width="26px" src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" />][Streamlit]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][C++]
 [<img align="left" alt="Numpy" width="26px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />][Numpy]
 [<img align="left" alt="Arduino" width="26px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" />][Arduino]
 [<img align="left" alt="Raspberry" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/buckyball_logo_detailscropped.jpg" />][Raspberry]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
-[<img align="left" alt="Streamlit" width="26px" src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" />][Git]
 
 <br>
 
