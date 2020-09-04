@@ -50,7 +50,7 @@
 <img align="left" alt="Charlie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Charlie5DH&show_icons=true&hide_border=true" />
 </details>
 
-<img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
+<img align="left" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
 
 [Streamlit]: https://github.com/streamlit
 [Jupyter]: https://jupyter.org/
