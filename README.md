@@ -34,6 +34,8 @@
 [<img align="left" alt="Raspberry" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/buckyball_logo_detailscropped.jpg" />][Raspberry]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
+[<img align="left" alt="Streamlit" width="26px" src="https://avatars1.githubusercontent.com/u/45109972?s=200&v=4" />][Git]
+
 <br>
 
 ---
@@ -50,6 +52,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Charlie5DH&show_icons=true&hide_border=true" />
 </details>
 
+[Streamlit]: https://github.com/streamlit
 [Jupyter]: https://jupyter.org/
 [Medium]: https://medium.com/@crmorales5dh
 [UFSC]: https://ufsc.br/
