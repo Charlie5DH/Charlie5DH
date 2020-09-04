@@ -19,6 +19,7 @@
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 <br />
 
+---
 
 ### Languages and Tools:
 
@@ -37,6 +38,7 @@
 
 <br>
 
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
