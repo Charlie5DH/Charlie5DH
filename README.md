@@ -9,6 +9,8 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
 
+<img align="left" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
+
 ### Look for me in:
 
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
@@ -17,7 +19,6 @@
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 <br />
 
----
 
 ### Languages and Tools:
 
@@ -36,7 +37,6 @@
 
 <br>
 
----
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -50,7 +50,7 @@
 <img align="left" alt="Charlie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Charlie5DH&show_icons=true&hide_border=true" />
 </details>
 
-<img align="left" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="300" height="280" />
+
 
 [Streamlit]: https://github.com/streamlit
 [Jupyter]: https://jupyter.org/
