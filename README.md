@@ -42,6 +42,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Random Forest on Titanic Dataset ](https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d)
+- [Starting in Machine Learning](https://medium.com/@crmorales5dh/get-started-in-machine-learning-b8528c0cb26d)
 
 ---
 
