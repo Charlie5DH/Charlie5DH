@@ -43,7 +43,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Random Forest on Titanic Dataset ](https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d)
 - [Starting in Machine Learning](https://medium.com/analytics-vidhya/get-started-in-machine-learning-b8528c0cb26d)
-
+### :game_die: Apps
+- [Forecast in Wireless Sensor Network](https://share.streamlit.io/charlie5dh/wsn_streamlit_app/main/Streamlit/attention_st.py)
 ---
 
 <details>
