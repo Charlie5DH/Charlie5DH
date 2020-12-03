@@ -16,6 +16,7 @@
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />][Orcid]
 <br />
 
 ---
@@ -75,3 +76,4 @@
 [Arduino]: https://www.arduino.cc/
 [Raspberry]: https://www.raspberrypi.org/
 [Instagram]: https://www.instagram.com/carlosraulm93/
+[Orcid]: https://orcid.org/0000-0003-0699-5160
