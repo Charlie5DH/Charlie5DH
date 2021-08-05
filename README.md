@@ -42,9 +42,9 @@
 
 ### 📕 Latest Publications
 <!-- BLOG-POST-LIST:START -->
-- [Multivariate Data Prediction in a Wireless Sensor Network based on Sequence to Sequence Models](https://ieeexplore.ieee.org/document/9459957)
-- [Random Forest on Titanic Dataset ](https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d)
-- [Starting in Machine Learning](https://medium.com/analytics-vidhya/get-started-in-machine-learning-b8528c0cb26d)
+- [Multivariate Data Prediction in a Wireless Sensor Network based on Sequence to Sequence Models (IEEE)](https://ieeexplore.ieee.org/document/9459957)
+- [Random Forest on Titanic Dataset (Medium)](https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d)
+- [Starting in Machine Learning (Medium)](https://medium.com/analytics-vidhya/get-started-in-machine-learning-b8528c0cb26d)
 
 ---
 
