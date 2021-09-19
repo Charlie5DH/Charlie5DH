@@ -2,7 +2,7 @@
 
 #### Hi, i'm an electronics engineer passionate about AI and Machine Learning !
   - :mortar_board: I’m currently finishing a Master degree on Electronics at [UFSC][UFSC]
-  - 🌱 Currently learning everything related to AI and Android :grinning:  
+  - 🌱 Currently learning everything related to AI and React JS :grinning:  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
 
