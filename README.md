@@ -42,7 +42,7 @@
 
 ### 📕 Latest Publications
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation of Deep Learning Methods in a Dual Prediction Scheme to Reduce Transmission Data in a WSN](https://www.mdpi.com/1424-8220/21/21/7375/htm)
+- [Evaluation of Deep Learning Methods in a Dual Prediction Scheme to Reduce Transmission Data in a WSN (MDPI)](https://www.mdpi.com/1424-8220/21/21/7375/htm)
 - [Multivariate Data Prediction in a Wireless Sensor Network based on Sequence to Sequence Models (IEEE)](https://ieeexplore.ieee.org/document/9459957)
 - [Random Forest on Titanic Dataset (Medium)](https://medium.com/analytics-vidhya/random-forest-on-titanic-dataset-88327a014b4d)
 - [Starting in Machine Learning (Medium)](https://medium.com/analytics-vidhya/get-started-in-machine-learning-b8528c0cb26d)
