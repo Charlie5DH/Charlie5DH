@@ -1,7 +1,7 @@
 ### Hi there, I'm Carlos R. - aka Charlie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Hi, i'm an electronics engineer passionate about AI and Machine Learning !
-  - :mortar_board: I’m currently finishing a Master degree on Electronics at [UFSC][UFSC]
+  - :mortar_board: Phd student and researcher at [RF Lab of Department of Electrical and Electronic Engineering of the Universidade Federal de Santa Catarina, Florianópolis][UFSC]
   - 🌱 Currently learning everything related to AI and React JS :grinning:  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
@@ -63,7 +63,7 @@
 [Streamlit]: https://github.com/streamlit
 [Jupyter]: https://jupyter.org/
 [Medium]: https://medium.com/@crmorales5dh
-[UFSC]: https://ufsc.br/
+[UFSC]: https://lrf.ufsc.br/?lang=en
 [Git]: https://en.wikipedia.org/wiki/Gi
 [Github]: https://github.com/Charlie5DH
 [Python]: https://www.python.org/
