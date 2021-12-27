@@ -2,7 +2,7 @@
 
 #### Hi, i'm an electronics engineer passionate about AI and Machine Learning !
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
-  - 🌱 Currently learning everything related to AI and React JS :grinning:  
+  - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
 
