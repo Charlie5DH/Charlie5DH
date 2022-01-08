@@ -35,7 +35,7 @@
 [<img align="left" alt="Git" width="32px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
 [<img align="left" alt="React" width="32px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />][React]
 [<img align="left" alt="Django" width="32" src="https://cdn.worldvectorlogo.com/logos/django.svg" />][Django]
-[<img align="left" alt="CSS" width="32" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />]
+[<img align="left" alt="CSS" width="32" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />][CSS]
 
 <br>
 
@@ -82,3 +82,4 @@
 [Orcid]: https://orcid.org/0000-0003-0699-5160
 [React]: https://reactjs.org/
 [Django]: https://www.djangoproject.com/
+[CSS]: https://www.w3schools.com/css/
