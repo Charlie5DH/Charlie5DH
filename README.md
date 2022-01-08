@@ -34,7 +34,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
 [<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />][React]
-[<img align="left" alt="Django" width="42px" justify-self="center" src="https://cdn.worldvectorlogo.com/logos/django-community.svg" />][Django]
+[<img align="left" alt="Django" width="42px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />][Django]
 
 <br>
 
