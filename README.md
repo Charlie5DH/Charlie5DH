@@ -34,8 +34,8 @@
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Git" width="32px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
 [<img align="left" alt="React" width="32px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />][React]
-[<img align="left" alt="Django" width="32" src="https://cdn.worldvectorlogo.com/logos/django.svg" />][Django]
-[<img align="left" alt="CSS" width="32" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />][CSS]
+[<img align="left" alt="Django" width="32px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />][Django]
+[<img align="left" alt="CSS" width="28px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />][CSS]
 
 <br>
 
