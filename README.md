@@ -35,6 +35,7 @@
 [<img align="left" alt="Git" width="32px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
 [<img align="left" alt="React" width="32px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />][React]
 [<img align="left" alt="Django" width="32" src="https://cdn.worldvectorlogo.com/logos/django.svg" />][Django]
+[<img align="left" alt="CSS" width="32" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />]
 
 <br>
 
