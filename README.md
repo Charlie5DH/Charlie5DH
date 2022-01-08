@@ -34,7 +34,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
 [<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />][React]
-[<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />][Git]
+[<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/django-community.svg" />][Django]
 
 <br>
 
@@ -80,3 +80,4 @@
 [Instagram]: https://www.instagram.com/carlosraulm93/
 [Orcid]: https://orcid.org/0000-0003-0699-5160
 [React]: https://reactjs.org/
+[Django]: https://www.djangoproject.com/
