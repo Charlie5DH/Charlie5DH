@@ -54,6 +54,7 @@
 ### :game_die: Some Apps demos
 - [Forecasting in Wireless Sensor Network](https://share.streamlit.io/charlie5dh/wsn_streamlit_app/main/Streamlit/attention_st.py)
 - [Crypto current prices, charts, NFTs](https://cryptodashboardnfts.netlify.app/)
+- [Near places advisor (Restaurants)](https://travel-places-advisor.netlify.app/)
 ---
 
 <!--<details>
