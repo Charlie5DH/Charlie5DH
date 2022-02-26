@@ -6,7 +6,7 @@
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
 
-### Spotify Playing 🎧
+### Spotify music ideas 🎧
 [<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
 
 
