@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos R. - aka Charlie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Carlos Morales. - aka CharlieBot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Hi, i'm an electronics engineer passionate about AI and Machine Learning !
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
