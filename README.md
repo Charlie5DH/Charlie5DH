@@ -51,7 +51,7 @@
 ---
 
 ### :game_die: Some Demos
-- [Crypto current prices, charts, NFTs](https://cryptodashboardnfts.netlify.app/)
+- [Crypto currencies Prices, Charts, NFTs using ](https://cryptodashboardnfts.netlify.app/)
 - [Near places advisor (Restaurants, Hotels, etc)](https://travel-places-advisor.netlify.app/)
 - [Full stack MERN blog and memories application](https://mernmemmoriesblog.netlify.app/)
 - [Forecasting in Wireless Sensor Network](https://share.streamlit.io/charlie5dh/wsn_streamlit_app/main/Streamlit/attention_st.py)
