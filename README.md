@@ -5,6 +5,11 @@
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
 
+
+### On Spotify 🎧
+
+[<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
+
 ---
 
 [**Check my personal portfolio**](https://carlosmorales-portfolio.netlify.app/)
@@ -12,11 +17,6 @@
 <img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1400" border-radius="20px" />
 
 ---
-
-### Spotify music ideas 🎧
-
-[<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
-
 
 ### Look for me in:
 
