@@ -6,7 +6,9 @@
   - ⚡ Fun fact: Love to play Squash
 
 ---
-[Check my personal portfolio](https://carlosmorales-portfolio.netlify.app/)
+
+[**Check my personal portfolio**](https://carlosmorales-portfolio.netlify.app/)
+
 ---
 
 ### Spotify music ideas 🎧
