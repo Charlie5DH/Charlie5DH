@@ -12,7 +12,7 @@
 
 ---
 
-[<span fontSize=24>Check my personal portfolio</span>](https://carlosmorales-portfolio.netlify.app/)
+[<span fontSize=24>Check my personal portfolio ↗️ for more information 👍</span>](https://carlosmorales-portfolio.netlify.app/)
 
 <img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1400"/>
 
