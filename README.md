@@ -9,7 +9,7 @@
 
 [**Check my personal portfolio**](https://carlosmorales-portfolio.netlify.app/)
 
-<img src="./PersonalRepoImage.jpg" alt="Repository Image" width="600" />
+<img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1200" />
 
 ---
 
