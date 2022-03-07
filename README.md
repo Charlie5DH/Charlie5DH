@@ -5,7 +5,8 @@
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
 
-## [See my personal portfolio](https://carlosmorales-portfolio.netlify.app/)
+---
+[Check my personal portfolio](https://carlosmorales-portfolio.netlify.app/)
 ---
 
 ### Spotify music ideas 🎧
