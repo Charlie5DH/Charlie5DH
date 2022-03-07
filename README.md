@@ -14,7 +14,7 @@
 
 [<span fontSize=24>Check my personal portfolio</span>](https://carlosmorales-portfolio.netlify.app/)
 
-<img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1400" border-radius="20" />
+<img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1400" style="border-radius:20%" />
 
 ---
 
