@@ -18,7 +18,7 @@
 
 ---
 
-<br/><img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1400"/>
+<br/>
 
 ### Look for me in:
 
