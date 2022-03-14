@@ -16,8 +16,7 @@
   
   <img align="right" src="./casual-life-3d-32.png" alt="" width="300" />
 
-
-<img src="./PersonalRepoImage.jpg" alt="Repository Image" width="1400"/>
+---
 
 ### Look for me in:
 
