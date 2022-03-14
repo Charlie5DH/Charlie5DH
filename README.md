@@ -11,7 +11,7 @@
 
 ---
 
-<div style="display: flex;>
+<div>
             
   [<img align="left" src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="460" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
   
