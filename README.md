@@ -12,7 +12,8 @@
 
 ---
   
-  [<img align="left" src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />(https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
+  [<img align="left" src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />
+  (https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
   
   <img align="right" src="./casual-life-3d-32.png" alt="" width="300" />
 
