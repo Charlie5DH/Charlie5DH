@@ -28,8 +28,9 @@
 
 ---
 
-### Languages and Tools:
+### Skills & Frameworks:
 
+[<img align="left" alt="Python" width="28px" src="./ai.png" />]
 [<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="Tensorflow" width="28px" src="https://miro.medium.com/proxy/1*pJm1NTQ-DCJvsLvo03idZQ.png" />][Tensorflow]
 [<img align="left" alt="Keras" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][Keras]
