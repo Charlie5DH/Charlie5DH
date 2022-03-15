@@ -16,7 +16,7 @@
 
 [Check my personal portfolio ↗️ for more information 👍](https://carlosmorales-portfolio.netlify.app/)
 
-<img src="casual-life-3d-32.png" alt="Repository Image" width="1400"/>
+<img src="casual-life-3d-32.png" alt="Repository Image" width="800"/>
 
 ### Look for me in:
 
