@@ -1,12 +1,16 @@
 ### Hi there, I'm Carlos Morales. - aka CharlieBot
 
-<img src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="40px">
-
+<div style={{alignItems:"center", display:"flex"}}>
+<div>
+  <img src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="40px">
+</div>
+<div>
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
   - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
-
+</div>
+  </div>
 
 ### On Spotify 🎧
 
