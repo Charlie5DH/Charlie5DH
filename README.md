@@ -1,5 +1,6 @@
 ### Hi there, I'm Carlos Morales. - aka Charli
 
+<img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px">
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
   - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
   - 👯 Looking to collaborate with others
@@ -98,4 +99,4 @@
 [CSS]: https://www.w3schools.com/css/
 [JS]: https://www.javascript.com/
 
-<img src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px">
+
