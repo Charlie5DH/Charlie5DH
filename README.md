@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos Morales. - aka CharlieBot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Carlos Morales. - aka CharlieBot <img src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="25px">
 
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
   - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
