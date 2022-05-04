@@ -7,7 +7,7 @@
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
 
-### On Spotify 🎧
+### Listening on Spotify 🎧
 
 ---
   
