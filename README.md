@@ -17,7 +17,7 @@
 
 [Check my personal portfolio ↗️ for more information 👍](https://carlosmorales-portfolio.netlify.app/)
 
-<img src="banner.png" alt="Repository Image" width="1200"/>
+<img src="RepoGroup.png" alt="Repository Image" width="1200"/>
 
 ### Look for me in:
 
