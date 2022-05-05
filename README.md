@@ -6,6 +6,7 @@
   - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
+  - [Check my personal portfolio ↗️ for more information 👍](https://carlosmorales-portfolio.netlify.app/)
 
 ### Listening on Spotify 🎧
 
@@ -15,7 +16,6 @@
 
 ---
 
-[Check my personal portfolio ↗️ for more information 👍](https://carlosmorales-portfolio.netlify.app/)
 
 <img src="RepoGroup.png" alt="Repository Image" width="1200"/>
 
