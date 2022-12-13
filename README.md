@@ -1,5 +1,6 @@
 ### Hi there, I'm Carlos Morales. - aka Charli
-<iframe src="https://giphy.com/embed/HO2cuakPoSngvitf0M" width="480" height="399" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-funny-reaction-what-HO2cuakPoSngvitf0M">via GIPHY</a></p>
+
+<img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 <img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
