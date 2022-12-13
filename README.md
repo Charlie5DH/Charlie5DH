@@ -1,6 +1,5 @@
 ### Hi there, I'm Carlos Morales. - aka Charli
 
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="120px"/>
 <img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 
   - :mortar_board: Phd student and researcher at [RF Lab of the Federal University of Santa Catarina, Florianópolis][UFSC]
@@ -13,7 +12,7 @@
 
 ---
   
-  [<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
+[<img src="https://spotify-now-alpha.vercel.app/api/spotify" alt="Playing Now on Spotify" width="400" />](https://open.spotify.com/user/blw0059k9tvj3m0o3a59q653g)
 
 ---
 
