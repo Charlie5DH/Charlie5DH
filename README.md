@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 
-  - 💻: Full Stack Developer at Wireless Precision
+  - 💻: Full Stack Developer at CERTI
   - :mortar_board: Phd student and researcher at UFSC
   - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
   - 👯 Looking to collaborate with others
