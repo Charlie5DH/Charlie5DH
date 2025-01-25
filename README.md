@@ -2,9 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 
-  - 💻: Full Stack Developer at CERTI
-  - :mortar_board: Phd student and researcher at UFSC
-  - 🌱 Currently learning everything related to AI and Web Dev :grinning:  
+  - 💻: Software Engineer at CERTI  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
   - 🌐 [Check my personal portfolio for more information ↗️](https://carlosmorales-portfolio.netlify.app/)
