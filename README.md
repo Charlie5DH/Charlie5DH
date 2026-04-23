@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.webp" width="120px"/>
 
-  - 💻: Software Engineer at CERTI  
+  - 💻: Software Engineer  
   - 👯 Looking to collaborate with others
   - ⚡ Fun fact: Love to play Squash
   - 🌐 [Check my personal portfolio for more information ↗️](https://carlosmorales-portfolio.netlify.app/)
