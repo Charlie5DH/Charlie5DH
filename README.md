@@ -6,7 +6,7 @@ AI & software engineer in Florianópolis, Brazil. I build AI systems and the sof
 
 - 🌍 Open to remote or hybrid roles in any time zone
 - ⚡ Fun fact: love to play squash
-- 🌐 [Full story on my portfolio ↗](https://carlosmorales-portfolio.netlify.app/)
+- 🌐 [Full story on my portfolio ↗](https://charlie5dh.github.io/Porfolio/)
 
 <p>
   <a href="https://www.linkedin.com/in/carlos-r-morales-b3484b159/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
