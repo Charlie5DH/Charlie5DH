@@ -53,12 +53,6 @@ AI & software engineer in Florianópolis, Brazil. I build AI systems and the sof
 - **Master's in Electrical Engineering**, UFSC · forecasting in a hydropower-plant wireless sensor network
 - **Engineer's degree in Mechatronics, Robotics and Automation**, CUJAE
 
-### 🎲 Some demos
-
-- [Forecasting in a Wireless Sensor Network](https://share.streamlit.io/charlie5dh/wsn_streamlit_app/main/Streamlit/attention_st.py) · Streamlit
-- [Near places advisor](https://travel-places-advisor.netlify.app/) · React
-- [Full-stack MERN blog](https://mernmemmoriesblog.netlify.app/) · MERN
-
 ---
 
 <sub>🗣️ Spanish · English · Portuguese &nbsp;·&nbsp; 📍 Florianópolis, Brazil &nbsp;·&nbsp; ✉️ crmorales5dh@gmail.com</sub>
